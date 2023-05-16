@@ -1,3 +1,2 @@
-int t;
-	// cin>>t;
-	// while(t--){
+#include <iostream>
+using namespace std;
